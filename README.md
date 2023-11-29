@@ -8,7 +8,7 @@ This repository contains a "Coming Soon" landing page designed for a personal pr
 - **CSS Animation:** Includes CSS animations for the shapes falling down the page.
 
 ## Preview
-[Add a screenshot or gif of the landing page here if applicable]
+![Capture](/images/coming-soon-capture.jpg)
 
 ## Credits
 - Gradient background generated from [mycolor.space](https://mycolor.space/gradient).
